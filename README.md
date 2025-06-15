@@ -1,19 +1,35 @@
-# Xicovic
-A  telegram text based AI operating on Gemini API resources for most of its operation<br>
+# 🚀 Xicovic  
+Xicovic is a Telegram-based AI powered by **Gemini API**, designed to provide intelligent text-based interactions within Telegram. It integrates advanced AI functionalities with seamless Telegram bot operations.
 
-# Requirements
-Before you run this program all you need to to is make sure you have the following libraries installed <br>
-1.**Telepot**<br><br><br>
-2.**google**<br><br>
-3.**google-genai**<br><br>
-4.**markdownify**<br><br>
-5.**markdown**<br><br>
-6.**google-api-core**<br><br>
+## 📌 Requirements  
+Ensure the following libraries are installed before running Xicovic:  
+- **Telepot** – Telegram bot interaction  
+- **google** – Google API tools  
+- **google-genai** – Gemini API integration  
+- **markdownify** – HTML to Markdown conversion  
+- **markdown** – Markdown rendering support  
+- **google-api-core** – Google API core functionalities  
 
-**This Program runs on Python3**<br><br><br>
-**Procedures**<br>
-**To clone this repository use the command**<br><br>
-```git clone https://github.com/Hackexdecodebreaker/Xicovic.git```<br><br>
-1.create a telegram bot and get the token to the bot from Botfather<br><br>
-2.Replace **#Token** with the token you got from Botfather<br><br>
-3.Run the script with **python3 xicovic.py**<br><br>
+_Xicovic runs on **Python 3**._
+
+## 🛠️ Installation  
+Clone the repository and set up dependencies:  
+```bash
+git clone https://github.com/Hackexdecodebreaker/Xicovic.git  
+cd Xicovic  
+pip install -r requirements.txt  
+```
+
+## 🚀 Setup & Execution  
+1️⃣ **Create a Telegram Bot**: Get your bot token from [BotFather](https://t.me/BotFather).  
+2️⃣ **Configure Xicovic**: Replace `#Token` in the script with your bot token.  
+3️⃣ **Run the bot**:  
+```bash
+python3 xicovic.py
+```
+
+## 📡 Features  
+- 🤖 **AI-Powered Responses** via Gemini API  
+- 📨 **Seamless Telegram Bot Integration** for text-based interactions  
+- 🔧 **Customizable API Calls** for advanced functionalities  
+
