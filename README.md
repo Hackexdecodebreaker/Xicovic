@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## 🚀 Setup & Execution  
 1️⃣ **Create a Telegram Bot**: Get your bot token from [BotFather](https://t.me/BotFather).  
-2️⃣ **Configure Xicovic**: Replace `#Token` in the script with your bot token.  
+2️⃣ **Configure Xicovic**: Replace `#Token` in the script with your bot token And Make Sure To Set Your Gemini-flash API key as required in the code.  
 3️⃣ **Run the bot**:  
 ```bash
 python3 xicovic.py
